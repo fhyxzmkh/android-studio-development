@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo3</string>
+    <string name="select_file">选择您想要查看的文件</string>
+</resources>
